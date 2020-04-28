@@ -4,10 +4,11 @@
 // Uses a normal map to distort the image behind, and
 // an additional texture to tint the color.
 
-Shader "FX/Glass/Stained BumpDistort" {
+Shader "FX/Portal Distort" {
 Properties {
 	_BumpAmt  ("Distortion", range (0,128)) = 10
-	_MainTex ("Tint Color (RGB)", 2D) = "white" {}
+	_Tint("Tint Color", Color) = (0.5, 0.5, 0.5, 0.5)
+	_MainTex ("Tint Color Texture (RGB)", 2D) = "white" {} //tint the centre of the portal
 	_BumpMap ("Normalmap", 2D) = "bump" {}
 }
 
@@ -15,7 +16,7 @@ Category {
 
 	// We must be transparent, so other objects are drawn before this one.
 	Tags { "Queue"="Transparent" "RenderType"="Opaque" }
-
+	Cull Off
 
 	SubShader {
 
@@ -54,6 +55,7 @@ struct v2f {
 float _BumpAmt;
 float4 _BumpMap_ST;
 float4 _MainTex_ST;
+fixed4 _Tint;
 
 v2f vert (appdata_t v)
 {
@@ -90,6 +92,9 @@ half4 frag (v2f i) : SV_Target
 	
 	half4 col = tex2Dproj( _GrabTexture, UNITY_PROJ_COORD(i.uvgrab));
 	half4 tint = tex2D(_MainTex, i.uvmain);
+	tint += _Tint;
+	//make sure it stays in a reasonable range
+	tint = clamp(tint, 0, 1);
 	col *= tint;
 	UNITY_APPLY_FOG(i.fogCoord, col);
 	return col;
