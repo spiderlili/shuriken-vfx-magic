@@ -30,4 +30,4 @@ Material:
     m_Floats:
     - _BumpAmt: 89.35
     m_Colors:
-    - _Tint: {r: 0.37399676, g: 0.23137254, b: 0.50980395, a: 0.5}
+    - _Tint: {r: 0, g: 0, b: 0, a: 0.5}
