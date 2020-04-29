@@ -19,6 +19,20 @@ MonoBehaviour:
   flickerSpeed: 60
   velocityBasedLength: 0
   velocityModifier: 10
+--- !u!114 &1423581558
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 858529299258659059}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a16c8e213d531da419eeb8621ed03db6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 10
+  waypointRadius: 500
 --- !u!1001 &859094926495720233
 PrefabInstance:
   m_ObjectHideFlags: 0

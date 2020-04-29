@@ -479,6 +479,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1423581558, guid: 7fa991becd56ef94c8ccefcc37eb1819, type: 3}
+      propertyPath: speed
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1423581558, guid: 7fa991becd56ef94c8ccefcc37eb1819, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 858529299258659059, guid: 7fa991becd56ef94c8ccefcc37eb1819,
         type: 3}
       propertyPath: m_Name
@@ -537,6 +545,11 @@ PrefabInstance:
     - target: {fileID: 863872227331754957, guid: 7fa991becd56ef94c8ccefcc37eb1819,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2012007722881304197, guid: 7fa991becd56ef94c8ccefcc37eb1819,
+        type: 3}
+      propertyPath: velocityBasedLength
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
