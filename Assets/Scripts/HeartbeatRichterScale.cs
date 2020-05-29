@@ -13,7 +13,7 @@ public class HeartbeatRichterScale : MonoBehaviour
     {
         if (Time.frameCount % interval == 0)
         {
-            yPos = Random.Range(0, yPosMax);
+            yPos = Random.Range(1, yPosMax);
             this.gameObject.transform.position = new Vector3(1, yPos, 1);
         }
     }
