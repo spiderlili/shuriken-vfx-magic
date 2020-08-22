@@ -1,0 +1,8 @@
+  22/08/2020 22:19:59: Starting composition “GlowSmoke”.
+
+  Output To: D:\github\shuriken-vfx-magic\Assets\Textures\AfterEffectsSource\GlowSmoke\GlowSmoke_[#####].tga    22/08/2020 22:19:59: Finished composition “GlowSmoke”.
+
+
+  Total Time Elapsed: 0 Seconds
+Log closed on 22/08/2020 at 22:19:59
+
