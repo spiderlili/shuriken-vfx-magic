@@ -286,6 +286,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: FishStoneFountainComplete
       objectReference: {fileID: 0}
+    - target: {fileID: -113181020801827196, guid: 26d80438d31616442a28420fb8db1ed1,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 67c7f8d892bb9c949be2b0e5ce674ad6, type: 2}
     - target: {fileID: 1935656468643835379, guid: 26d80438d31616442a28420fb8db1ed1,
         type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -504,7 +509,7 @@ Light:
     m_Type: 2
     m_Resolution: -1
     m_CustomResolution: -1
-    m_Strength: 1
+    m_Strength: 0.481
     m_Bias: 0.05
     m_NormalBias: 0.4
     m_NearPlane: 0.2
@@ -551,10 +556,10 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1182424347}
-  m_LocalRotation: {x: 0.05069091, y: -0.15640852, z: 0.7556683, w: 0.63398135}
+  m_LocalRotation: {x: 0.057607066, y: -0.15399596, z: 0.78315556, w: 0.59969497}
   m_LocalPosition: {x: 0, y: 3, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 1
-  m_LocalEulerAnglesHint: {x: 17.497002, y: -7.3320003, z: 98.879005}
+  m_LocalEulerAnglesHint: {x: 18.077002, y: -5.703, z: 104.206}
