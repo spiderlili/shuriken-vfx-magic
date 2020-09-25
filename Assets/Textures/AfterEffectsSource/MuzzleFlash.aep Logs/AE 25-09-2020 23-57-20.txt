@@ -1,0 +1,8 @@
+  25/09/2020 23:57:20: Starting composition “MuzzleFlashFront”.
+
+  Output To: D:\github\shuriken-vfx-magic\Assets\Textures\MuzzleFlash\MuzzleFlashFront\MuzzleFlashFront\MuzzleFlashFront_[#####].png    25/09/2020 23:57:21: Finished composition “MuzzleFlashFront”.
+
+
+  Total Time Elapsed: 1 Seconds
+Log closed on 25/09/2020 at 23:57:21
+
