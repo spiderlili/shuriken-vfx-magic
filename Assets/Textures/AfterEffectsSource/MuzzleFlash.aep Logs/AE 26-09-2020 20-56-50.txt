@@ -1,0 +1,8 @@
+  26/09/2020 20:56:50: Starting composition “Smoke”.
+
+  Output To: D:\github\shuriken-vfx-magic\Assets\Textures\MuzzleFlash\MuzzleFlashSmoke\Smoke\Smoke_[#####].png    26/09/2020 20:56:51: Finished composition “Smoke”.
+
+
+  Total Time Elapsed: 1 Seconds
+Log closed on 26/09/2020 at 20:56:51
+
