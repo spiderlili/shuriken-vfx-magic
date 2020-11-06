@@ -1,0 +1,8 @@
+  06/11/2020 16:07:51: Starting composition “SmokePuffAnim”.
+
+  Output To: D:\github\shuriken-vfx-magic\Assets\Textures\ToonSmokeAnim\SmokePuffAnim\SmokePuffAnim_[#####].png    06/11/2020 16:07:51: Finished composition “SmokePuffAnim”.
+
+
+  Total Time Elapsed: 0 Seconds
+Log closed on 06/11/2020 at 16:07:51
+
