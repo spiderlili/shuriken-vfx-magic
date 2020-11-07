@@ -1,0 +1,8 @@
+  07/11/2020 17:58:30: Starting composition “StaticSmokePuff”.
+
+  Output To: D:\github\shuriken-vfx-magic\Assets\Textures\ToonSmokeAnim\StaticSmokePuff\StaticSmokePuff\StaticSmokePuff_[#####].png    07/11/2020 17:58:30: Finished composition “StaticSmokePuff”.
+
+
+  Total Time Elapsed: 0 Seconds
+Log closed on 07/11/2020 at 17:58:30
+
