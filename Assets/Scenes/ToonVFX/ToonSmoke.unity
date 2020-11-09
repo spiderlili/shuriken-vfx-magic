@@ -303,16 +303,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 1753302363556266942, guid: 49bb56e35dfe11c4c8fc4183f87fea04,
-        type: 3}
-      propertyPath: ColorModule.enabled
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 1753302363556266942, guid: 49bb56e35dfe11c4c8fc4183f87fea04,
-        type: 3}
-      propertyPath: ColorModule.gradient.maxGradient.key1.a
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 8875422971953378628, guid: 49bb56e35dfe11c4c8fc4183f87fea04,
         type: 3}
       propertyPath: m_LocalPosition.x
