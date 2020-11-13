@@ -1,0 +1,8 @@
+  13/11/2020 13:43:57: Starting composition “Tornado_Debris”.
+
+  Output To: D:\github\shuriken-vfx-magic\Assets\Textures\Tornado\Tornado_Debris\Tornado_Debris_[#####].png    13/11/2020 13:43:58: Finished composition “Tornado_Debris”.
+
+
+  Total Time Elapsed: 1 Seconds
+Log closed on 13/11/2020 at 13:43:58
+
