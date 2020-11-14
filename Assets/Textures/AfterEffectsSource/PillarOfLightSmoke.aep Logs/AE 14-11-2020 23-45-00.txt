@@ -1,0 +1,8 @@
+  14/11/2020 23:45:00: Starting composition “SpinningSmokeHaze”.
+
+  Output To: D:\github\shuriken-vfx-magic\Assets\Textures\SpinningSmokeHaze\SpinSmokeHaze_[#####].png    14/11/2020 23:45:01: Finished composition “SpinningSmokeHaze”.
+
+
+  Total Time Elapsed: 1 Seconds
+Log closed on 14/11/2020 at 23:45:01
+
