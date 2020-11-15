@@ -1,0 +1,8 @@
+  15/11/2020 18:06:40: Starting composition “LightRaysUpwards”.
+
+  Output To: D:\github\shuriken-vfx-magic\Assets\Textures\LightRaysUpwards\LightRaysUpwards_[#####].png    15/11/2020 18:06:41: Finished composition “LightRaysUpwards”.
+
+
+  Total Time Elapsed: 1 Seconds
+Log closed on 15/11/2020 at 18:06:41
+
