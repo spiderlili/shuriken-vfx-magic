@@ -1,0 +1,8 @@
+  15/11/2020 17:48:02: Starting composition “Sparks”.
+
+  Output To: D:\github\shuriken-vfx-magic\Assets\Textures\Sparks\Sparks_[#####].png    15/11/2020 17:48:02: Finished composition “Sparks”.
+
+
+  Total Time Elapsed: 0 Seconds
+Log closed on 15/11/2020 at 17:48:02
+
