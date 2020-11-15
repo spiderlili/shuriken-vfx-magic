@@ -1,0 +1,8 @@
+  15/11/2020 00:20:58: Starting composition “Rings”.
+
+  Output To: D:\github\shuriken-vfx-magic\Assets\Textures\Rings\Rings_[#####].png    15/11/2020 00:21:00: Finished composition “Rings”.
+
+
+  Total Time Elapsed: 2 Seconds
+Log closed on 15/11/2020 at 00:21:00
+
