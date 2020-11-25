@@ -1,0 +1,8 @@
+  25/11/2020 22:56:41: Starting composition “Glass”.
+
+  Output To: D:\github\shuriken-vfx-magic\Assets\Textures\SuperChargeTornado\Glass\Glass_[#####].png    25/11/2020 22:56:42: Finished composition “Glass”.
+
+
+  Total Time Elapsed: 1 Seconds
+Log closed on 25/11/2020 at 22:56:42
+
