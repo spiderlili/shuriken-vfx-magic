@@ -1,0 +1,8 @@
+  26/11/2020 22:53:54: Starting composition “DirtSplatter”.
+
+  Output To: D:\github\shuriken-vfx-magic\Assets\Textures\SuperChargeTornado\DirtSplatter\DirtSplatter_[#####].png    26/11/2020 22:53:54: Finished composition “DirtSplatter”.
+
+
+  Total Time Elapsed: 0 Seconds
+Log closed on 26/11/2020 at 22:53:54
+
