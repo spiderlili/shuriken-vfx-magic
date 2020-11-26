@@ -1,0 +1,8 @@
+  26/11/2020 23:04:55: Starting composition “DirtCloud”.
+
+  Output To: D:\github\shuriken-vfx-magic\Assets\Textures\SuperChargeTornado\DirtCloud\DirtCloud_[#####].png    26/11/2020 23:04:55: Finished composition “DirtCloud”.
+
+
+  Total Time Elapsed: 0 Seconds
+Log closed on 26/11/2020 at 23:04:55
+
