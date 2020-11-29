@@ -1,0 +1,8 @@
+  29/11/2020 16:07:17: Starting composition “DarkLightning”.
+
+  Output To: D:\github\shuriken-vfx-magic\Assets\Textures\SuperChargeTornado\DarkLightning.avi    29/11/2020 16:07:18: Finished composition “DarkLightning”.
+
+
+  Total Time Elapsed: 1 Seconds
+Log closed on 29/11/2020 at 16:07:18
+
