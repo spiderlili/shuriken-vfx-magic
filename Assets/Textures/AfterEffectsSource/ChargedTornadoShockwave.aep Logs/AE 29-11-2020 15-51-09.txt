@@ -1,0 +1,8 @@
+  29/11/2020 15:51:09: Starting composition “BrightLightning”.
+
+  Output To: D:\github\shuriken-vfx-magic\Assets\Textures\SuperChargeTornado\BrightLightning\BrightLightning_[#####].png    29/11/2020 15:51:09: Finished composition “BrightLightning”.
+
+
+  Total Time Elapsed: 0 Seconds
+Log closed on 29/11/2020 at 15:51:09
+
