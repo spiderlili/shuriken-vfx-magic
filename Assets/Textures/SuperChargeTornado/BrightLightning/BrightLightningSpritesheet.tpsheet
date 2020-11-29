@@ -1,0 +1,23 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:2bbfa8df3c385b84e15978ac3d18ab03:2429e78d128f9471ee5d012fb989cfac:a2d5896b210193fce2670bb084a2d635$
+#
+:format=40300
+:texture=BrightLightningSpritesheet.png
+:size=2048x2048
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+BrightLightning_00000;0;1536;512;512; 0.5;0.5; 0;0;0;0
+BrightLightning_00001;512;1536;512;512; 0.5;0.5; 0;0;0;0
+BrightLightning_00002;1024;1536;512;512; 0.5;0.5; 0;0;0;0
+BrightLightning_00003;1536;1536;512;512; 0.5;0.5; 0;0;0;0
+BrightLightning_00004;0;1024;512;512; 0.5;0.5; 0;0;0;0
+BrightLightning_00005;512;1024;512;512; 0.5;0.5; 0;0;0;0
+BrightLightning_00006;1024;1024;512;512; 0.5;0.5; 0;0;0;0
+BrightLightning_00007;1536;1024;512;512; 0.5;0.5; 0;0;0;0
