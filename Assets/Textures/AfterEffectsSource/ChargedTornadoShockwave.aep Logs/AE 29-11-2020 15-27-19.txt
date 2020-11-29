@@ -1,0 +1,8 @@
+  29/11/2020 15:27:19: Starting composition “SpikeClouds”.
+
+  Output To: D:\github\shuriken-vfx-magic\Assets\Textures\SuperChargeTornado\SpikeClouds\SpikeClouds_[#####].png    29/11/2020 15:27:20: Finished composition “SpikeClouds”.
+
+
+  Total Time Elapsed: 1 Seconds
+Log closed on 29/11/2020 at 15:27:20
+
