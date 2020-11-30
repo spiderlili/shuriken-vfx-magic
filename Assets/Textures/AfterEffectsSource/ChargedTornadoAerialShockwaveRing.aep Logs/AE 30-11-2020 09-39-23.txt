@@ -1,0 +1,8 @@
+  30/11/2020 09:39:23: Starting composition “Aerial Shockwave”.
+
+  Output To: D:\github\shuriken-vfx-magic\Assets\Textures\SuperChargeTornado\Aerial Shockwave\Aerial Shockwave_[#####].png    30/11/2020 09:39:51: Finished composition “Aerial Shockwave”.
+
+
+  Total Time Elapsed: 28 Seconds
+Log closed on 30/11/2020 at 09:39:51
+

@@ -39093,41 +39093,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: SuperChargeTornadoDebris
       objectReference: {fileID: 0}
-    - target: {fileID: 5408445162259347183, guid: 4907f6d600711bb4a97e66f2b7b4a5de,
-        type: 3}
-      propertyPath: startDelay.scalar
-      value: 0.5
-      objectReference: {fileID: 0}
-    - target: {fileID: 5408445162259347183, guid: 4907f6d600711bb4a97e66f2b7b4a5de,
-        type: 3}
-      propertyPath: SizeModule.curve.maxCurve.m_Curve.Array.data[0].inSlope
-      value: 1.6705085
-      objectReference: {fileID: 0}
-    - target: {fileID: 5408445162259347183, guid: 4907f6d600711bb4a97e66f2b7b4a5de,
-        type: 3}
-      propertyPath: SizeModule.curve.maxCurve.m_Curve.Array.data[0].outSlope
-      value: 1.6705085
-      objectReference: {fileID: 0}
-    - target: {fileID: 5408445162259347183, guid: 4907f6d600711bb4a97e66f2b7b4a5de,
-        type: 3}
-      propertyPath: SizeModule.curve.maxCurve.m_Curve.Array.data[0].outWeight
-      value: 0.105105095
-      objectReference: {fileID: 0}
-    - target: {fileID: 5408445162259347183, guid: 4907f6d600711bb4a97e66f2b7b4a5de,
-        type: 3}
-      propertyPath: lengthInSec
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 5408445162259347183, guid: 4907f6d600711bb4a97e66f2b7b4a5de,
-        type: 3}
-      propertyPath: ShapeModule.m_Position.z
-      value: -2
-      objectReference: {fileID: 0}
-    - target: {fileID: 5408445162259347183, guid: 4907f6d600711bb4a97e66f2b7b4a5de,
-        type: 3}
-      propertyPath: InitialModule.startLifetime.scalar
-      value: 3
-      objectReference: {fileID: 0}
     - target: {fileID: 5688206599350650331, guid: 4907f6d600711bb4a97e66f2b7b4a5de,
         type: 3}
       propertyPath: LightsModule.light
