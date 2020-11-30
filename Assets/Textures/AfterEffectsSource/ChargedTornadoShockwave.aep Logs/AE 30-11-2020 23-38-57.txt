@@ -1,0 +1,8 @@
+  30/11/2020 23:38:57: Starting composition “PillarDustSmoke”.
+
+  Output To: D:\github\shuriken-vfx-magic\Assets\Textures\SuperChargeTornado\PillarDustSmoke\PillarDustSmoke_[#####].png    30/11/2020 23:38:57: Finished composition “PillarDustSmoke”.
+
+
+  Total Time Elapsed: 0 Seconds
+Log closed on 30/11/2020 at 23:38:57
+
