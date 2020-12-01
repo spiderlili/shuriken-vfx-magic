@@ -39098,11 +39098,6 @@ PrefabInstance:
       propertyPath: LightsModule.light
       value: 
       objectReference: {fileID: 1218029151}
-    - target: {fileID: 5688206599350650331, guid: 4907f6d600711bb4a97e66f2b7b4a5de,
-        type: 3}
-      propertyPath: EmissionModule.rateOverTime.scalar
-      value: 3
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4907f6d600711bb4a97e66f2b7b4a5de, type: 3}
 --- !u!4 &5408445161987930709 stripped
