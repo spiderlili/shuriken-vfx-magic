@@ -705,6 +705,56 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 859094926008508700, guid: 7fa991becd56ef94c8ccefcc37eb1819,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 859094926008508703, guid: 7fa991becd56ef94c8ccefcc37eb1819,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 859094926232754822, guid: 7fa991becd56ef94c8ccefcc37eb1819,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 859094926232754840, guid: 7fa991becd56ef94c8ccefcc37eb1819,
+        type: 3}
+      propertyPath: m_Parameters.widthCurve.m_Curve.Array.data[0].value
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 859094926232754840, guid: 7fa991becd56ef94c8ccefcc37eb1819,
+        type: 3}
+      propertyPath: m_Parameters.widthCurve.m_Curve.Array.data[0].time
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 859094926232754840, guid: 7fa991becd56ef94c8ccefcc37eb1819,
+        type: 3}
+      propertyPath: m_Parameters.widthCurve.m_Curve.Array.data[1].value
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 859094926232754840, guid: 7fa991becd56ef94c8ccefcc37eb1819,
+        type: 3}
+      propertyPath: m_Parameters.widthCurve.m_Curve.Array.data[1].time
+      value: 0.86245716
+      objectReference: {fileID: 0}
+    - target: {fileID: 859094926232754840, guid: 7fa991becd56ef94c8ccefcc37eb1819,
+        type: 3}
+      propertyPath: m_Loop
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 859094926670844085, guid: 7fa991becd56ef94c8ccefcc37eb1819,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 859094927530489764, guid: 7fa991becd56ef94c8ccefcc37eb1819,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 863872227331754957, guid: 7fa991becd56ef94c8ccefcc37eb1819,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -763,7 +813,17 @@ PrefabInstance:
     - target: {fileID: 2012007722881304197, guid: 7fa991becd56ef94c8ccefcc37eb1819,
         type: 3}
       propertyPath: velocityBasedLength
-      value: 0
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2012007722881304197, guid: 7fa991becd56ef94c8ccefcc37eb1819,
+        type: 3}
+      propertyPath: flickerAmount
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2012007722881304197, guid: 7fa991becd56ef94c8ccefcc37eb1819,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7fa991becd56ef94c8ccefcc37eb1819, type: 3}
@@ -858,6 +918,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Ship_TrailFlare
+      objectReference: {fileID: 0}
+    - target: {fileID: 6493984193930527572, guid: 427364da71273724d8a6da6c84deb945,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 427364da71273724d8a6da6c84deb945, type: 3}
