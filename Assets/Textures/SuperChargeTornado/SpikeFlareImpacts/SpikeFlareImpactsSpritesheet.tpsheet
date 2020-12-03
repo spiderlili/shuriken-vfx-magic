@@ -1,0 +1,23 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:0328f7293d4518a14c17e67edfa1c936:7ce71c37371122a45f459c6f80af422a:266aafa62035be3014f79c4085df7446$
+#
+:format=40300
+:texture=SpikeFlareImpactsSpritesheet.png
+:size=2048x1024
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+SpikeFlareImpacts_00000;0;512;512;512; 0.5;0.5; 0;0;0;0
+SpikeFlareImpacts_00001;512;512;512;512; 0.5;0.5; 0;0;0;0
+SpikeFlareImpacts_00002;1024;512;512;512; 0.5;0.5; 0;0;0;0
+SpikeFlareImpacts_00003;1536;512;512;512; 0.5;0.5; 0;0;0;0
+SpikeFlareImpacts_00004;0;0;512;512; 0.5;0.5; 0;0;0;0
+SpikeFlareImpacts_00005;512;0;512;512; 0.5;0.5; 0;0;0;0
+SpikeFlareImpacts_00006;1024;0;512;512; 0.5;0.5; 0;0;0;0
+SpikeFlareImpacts_00007;1536;0;512;512; 0.5;0.5; 0;0;0;0
