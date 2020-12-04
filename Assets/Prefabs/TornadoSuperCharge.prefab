@@ -26,7 +26,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4265788400602651408}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 2.5}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 4265788401846614307}
@@ -14681,7 +14681,7 @@ ParticleSystem:
     startLifetime:
       serializedVersion: 2
       minMaxState: 3
-      scalar: 0.5
+      scalar: 0.4
       minScalar: 0.3
       maxCurve:
         serializedVersion: 2
@@ -14850,8 +14850,8 @@ ParticleSystem:
     startSize:
       serializedVersion: 2
       minMaxState: 3
-      scalar: 16
-      minScalar: 12
+      scalar: 40
+      minScalar: 20
       maxCurve:
         serializedVersion: 2
         m_Curve:
@@ -15231,7 +15231,7 @@ ParticleSystem:
     boxThickness: {x: 0, y: 0, z: 0}
     radiusThickness: 0
     donutRadius: 0.2
-    m_Position: {x: 0, y: 0, z: 0}
+    m_Position: {x: -0.5, y: 0, z: 0}
     m_Rotation: {x: 0, y: 0, z: 0}
     m_Scale: {x: 1, y: 1, z: 1}
     placementMode: 0
@@ -24216,7 +24216,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4265788401211362474}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0.5, y: -5, z: 20}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 4265788401151082115}
@@ -24305,8 +24305,8 @@ ParticleSystem:
     startLifetime:
       serializedVersion: 2
       minMaxState: 3
-      scalar: 0.6
-      minScalar: 0.5
+      scalar: 0.4
+      minScalar: 0.3
       maxCurve:
         serializedVersion: 2
         m_Curve:
@@ -24412,7 +24412,7 @@ ParticleSystem:
       serializedVersion: 2
       minMaxState: 0
       minColor: {r: 1, g: 1, b: 1, a: 1}
-      maxColor: {r: 0.43921566, g: 0.586191, b: 0.94509804, a: 1}
+      maxColor: {r: 0.3160377, g: 0.5073614, b: 1, a: 1}
       maxGradient:
         serializedVersion: 2
         key0: {r: 1, g: 1, b: 1, a: 1}
@@ -24474,7 +24474,7 @@ ParticleSystem:
     startSize:
       serializedVersion: 2
       minMaxState: 3
-      scalar: 20
+      scalar: 30
       minScalar: 15
       maxCurve:
         serializedVersion: 2
@@ -43418,7 +43418,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4265788401846614308}
   m_LocalRotation: {x: -0.7071068, y: -0, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: 0, y: 1.8, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 4265788402231193716}
@@ -44061,7 +44061,7 @@ ParticleSystem:
     boxThickness: {x: 0, y: 0, z: 0}
     radiusThickness: 1
     donutRadius: 0.2
-    m_Position: {x: 0, y: 0, z: 0}
+    m_Position: {x: 0, y: 5, z: 0}
     m_Rotation: {x: 0, y: 0, z: 0}
     m_Scale: {x: 1, y: 1, z: 1}
     placementMode: 0
@@ -62612,7 +62612,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4265788402209164298}
   m_LocalRotation: {x: -0.7071068, y: -0, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: -1, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 4265788401151082115}
@@ -62641,7 +62641,7 @@ ParticleSystem:
   startDelay:
     serializedVersion: 2
     minMaxState: 0
-    scalar: 0
+    scalar: 0.2
     minScalar: 0
     maxCurve:
       serializedVersion: 2
@@ -67433,7 +67433,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4265788402231193719}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 2.5}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 4265788401846614307}
@@ -77062,7 +77062,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4265788402383079895}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 2.5}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 4265788401449012739}
@@ -77260,7 +77260,7 @@ ParticleSystem:
       serializedVersion: 2
       minMaxState: 0
       minColor: {r: 1, g: 1, b: 1, a: 1}
-      maxColor: {r: 0.39493942, g: 0, b: 1, a: 1}
+      maxColor: {r: 0.29966182, g: 0.33479556, b: 0.6981132, a: 1}
       maxGradient:
         serializedVersion: 2
         key0: {r: 1, g: 1, b: 1, a: 1}
@@ -91583,7 +91583,7 @@ PrefabInstance:
     - target: {fileID: 3815279607603521466, guid: 10f4b9da684f07d47a83cc42599ac109,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0
+      value: 2.5
       objectReference: {fileID: 0}
     - target: {fileID: 3815279607603521466, guid: 10f4b9da684f07d47a83cc42599ac109,
         type: 3}
@@ -91645,6 +91645,22 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 4265788401590356787}
     m_Modifications:
+    - target: {fileID: 1105253571, guid: 4907f6d600711bb4a97e66f2b7b4a5de, type: 3}
+      propertyPath: looping
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1105253571, guid: 4907f6d600711bb4a97e66f2b7b4a5de, type: 3}
+      propertyPath: startDelay.scalar
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1115858637, guid: 4907f6d600711bb4a97e66f2b7b4a5de, type: 3}
+      propertyPath: InitialModule.startColor.maxColor.r
+      value: 0.5254902
+      objectReference: {fileID: 0}
+    - target: {fileID: 1115858637, guid: 4907f6d600711bb4a97e66f2b7b4a5de, type: 3}
+      propertyPath: InitialModule.startColor.maxColor.g
+      value: 0.53007114
+      objectReference: {fileID: 0}
     - target: {fileID: 5408445162259347176, guid: 4907f6d600711bb4a97e66f2b7b4a5de,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -91704,6 +91720,21 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: SuperChargeTornadoDebris
+      objectReference: {fileID: 0}
+    - target: {fileID: 5408445162259347183, guid: 4907f6d600711bb4a97e66f2b7b4a5de,
+        type: 3}
+      propertyPath: InitialModule.startSize.scalar
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 5408445162259347183, guid: 4907f6d600711bb4a97e66f2b7b4a5de,
+        type: 3}
+      propertyPath: lengthInSec
+      value: 3.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 5408445162259347183, guid: 4907f6d600711bb4a97e66f2b7b4a5de,
+        type: 3}
+      propertyPath: ColorModule.gradient.maxGradient.atime1
+      value: 9830
       objectReference: {fileID: 0}
     - target: {fileID: 5688206599350650331, guid: 4907f6d600711bb4a97e66f2b7b4a5de,
         type: 3}
