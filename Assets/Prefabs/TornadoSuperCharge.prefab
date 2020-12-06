@@ -77260,7 +77260,7 @@ ParticleSystem:
       serializedVersion: 2
       minMaxState: 0
       minColor: {r: 1, g: 1, b: 1, a: 1}
-      maxColor: {r: 0.29966182, g: 0.33479556, b: 0.6981132, a: 1}
+      maxColor: {r: 0.28034887, g: 0.5916278, b: 0.7924528, a: 1}
       maxGradient:
         serializedVersion: 2
         key0: {r: 1, g: 1, b: 1, a: 1}
@@ -82139,7 +82139,7 @@ ParticleSystem:
       serializedVersion: 2
       minMaxState: 0
       minColor: {r: 1, g: 1, b: 1, a: 1}
-      maxColor: {r: 0.6811172, g: 0.43867922, b: 1, a: 1}
+      maxColor: {r: 0.32551616, g: 0.47318253, b: 0.8962264, a: 1}
       maxGradient:
         serializedVersion: 2
         key0: {r: 1, g: 1, b: 1, a: 1}
@@ -91659,7 +91659,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1115858637, guid: 4907f6d600711bb4a97e66f2b7b4a5de, type: 3}
       propertyPath: InitialModule.startColor.maxColor.g
-      value: 0.53007114
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1115858637, guid: 4907f6d600711bb4a97e66f2b7b4a5de, type: 3}
+      propertyPath: InitialModule.startColor.maxColor.b
+      value: 0.98799986
       objectReference: {fileID: 0}
     - target: {fileID: 5408445162259347176, guid: 4907f6d600711bb4a97e66f2b7b4a5de,
         type: 3}

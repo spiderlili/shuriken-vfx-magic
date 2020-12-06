@@ -20646,7 +20646,7 @@ ParticleSystem:
       maxGradient:
         serializedVersion: 2
         key0: {r: 1, g: 1, b: 1, a: 0}
-        key1: {r: 0.5660378, g: 0.5366679, b: 0.5366679, a: 0.9470588}
+        key1: {r: 0.5660378, g: 0.5366679, b: 0.5366679, a: 0.5882353}
         key2: {r: 0.764151, g: 0.764151, b: 0.764151, a: 0.74474895}
         key3: {r: 1, g: 1, b: 1, a: 0}
         key4: {r: 1, g: 1, b: 1, a: 0}
@@ -20665,8 +20665,8 @@ ParticleSystem:
         atime1: 3277
         atime2: 16384
         atime3: 65535
-        atime4: 0
-        atime5: 0
+        atime4: 65535
+        atime5: 65535
         atime6: 0
         atime7: 0
         m_Mode: 0
@@ -21964,7 +21964,7 @@ ParticleSystem:
         m_PostInfinity: 2
         m_RotationOrder: 4
   NoiseModule:
-    enabled: 0
+    enabled: 1
     strength:
       serializedVersion: 2
       minMaxState: 0
@@ -22125,7 +22125,7 @@ ParticleSystem:
         m_PostInfinity: 2
         m_RotationOrder: 4
     separateAxes: 0
-    frequency: 0.5
+    frequency: 0.02
     damping: 1
     octaves: 1
     octaveMultiplier: 0.5
