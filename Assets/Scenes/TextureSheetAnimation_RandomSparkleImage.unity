@@ -303,36 +303,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 1952429522515664290, guid: 10b631bc203ca6e4990d8b016583f185,
-        type: 3}
-      propertyPath: VelocityModule.enabled
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1952429522515664290, guid: 10b631bc203ca6e4990d8b016583f185,
-        type: 3}
-      propertyPath: NoiseModule.enabled
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 1952429522515664290, guid: 10b631bc203ca6e4990d8b016583f185,
-        type: 3}
-      propertyPath: NoiseModule.frequency
-      value: 0.5
-      objectReference: {fileID: 0}
-    - target: {fileID: 1952429522515664290, guid: 10b631bc203ca6e4990d8b016583f185,
-        type: 3}
-      propertyPath: NoiseModule.strength.scalar
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 1952429522515664290, guid: 10b631bc203ca6e4990d8b016583f185,
-        type: 3}
-      propertyPath: NoiseModule.separateAxes
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 1952429522515664290, guid: 10b631bc203ca6e4990d8b016583f185,
-        type: 3}
-      propertyPath: NoiseModule.strengthZ.scalar
-      value: 3
-      objectReference: {fileID: 0}
     - target: {fileID: 1952429522515664291, guid: 10b631bc203ca6e4990d8b016583f185,
         type: 3}
       propertyPath: m_LocalPosition.x
