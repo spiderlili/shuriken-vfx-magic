@@ -231,3 +231,27 @@ Received Import Request.
   path: Assets/UI/TarotCard/TarotCardFrame_004_1.png
   artifactKey: Guid(0efc01e6124bf4637a34cdc0ddbdd535) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/UI/TarotCard/TarotCardFrame_004_1.png using Guid(0efc01e6124bf4637a34cdc0ddbdd535) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f16d5718b139a8fa2102c623e34ac69') in 0.189062 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9317.671427 seconds.
+  path: Assets/UI/TarotCard/TarotCardFrame_Mask.png
+  artifactKey: Guid(8cf855f41297f4c169f7d47a293da4be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/TarotCard/TarotCardFrame_Mask.png using Guid(8cf855f41297f4c169f7d47a293da4be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd1b07529589cb87f160a598ed51d8ad') in 0.146525 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.806309 seconds.
+  path: Assets/UI/TarotCard/TarotCardFrame_Mask.png
+  artifactKey: Guid(8cf855f41297f4c169f7d47a293da4be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/TarotCard/TarotCardFrame_Mask.png using Guid(8cf855f41297f4c169f7d47a293da4be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd30bca0d88087c932eaa6a02a2137b9c') in 0.305650 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 274.384955 seconds.
+  path: Assets/UI/TarotCard/TarotCardFrame_Mask.png
+  artifactKey: Guid(8cf855f41297f4c169f7d47a293da4be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/TarotCard/TarotCardFrame_Mask.png using Guid(8cf855f41297f4c169f7d47a293da4be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86b4c4a4274e8038f9413a2ae50bc14b') in 0.318463 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 105.003258 seconds.
+  path: Assets/UI/TarotCard/TarotCardFrame_Mask.png
+  artifactKey: Guid(8cf855f41297f4c169f7d47a293da4be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/TarotCard/TarotCardFrame_Mask.png using Guid(8cf855f41297f4c169f7d47a293da4be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '798e0eec1e2955d896f94a5b0b9a1658') in 0.280129 seconds 
