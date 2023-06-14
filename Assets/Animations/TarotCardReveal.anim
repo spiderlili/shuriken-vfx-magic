@@ -38,8 +38,55 @@ AnimationClip:
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_SizeDelta.x
+    path: Canvas/DecorL-004/DecorL-004-2
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
       - serializedVersion: 3
-        time: 1
+        time: 0
+        value: 2835
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.33333334
+        value: 4500
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_SizeDelta.y
+    path: Canvas/DecorL-004/DecorL-004-2
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1654.2114
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.33333334
         value: 1654.2114
         inSlope: 0
         outSlope: 0
@@ -51,7 +98,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_SizeDelta.x
-    path: Canvas/DecorL-004-2
+    path: Canvas/DecorR-004/DecorR-004-1
     classID: 224
     script: {fileID: 0}
   - curve:
@@ -68,16 +115,7 @@ AnimationClip:
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.33333334
-        value: 4535
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 1
-        value: 2835
+        value: 4500
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -88,7 +126,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_SizeDelta.y
-    path: Canvas/DecorL-004-2
+    path: Canvas/DecorR-004/DecorR-004-1
     classID: 224
     script: {fileID: 0}
   - curve:
@@ -96,7 +134,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 1654.2114
+        value: 0
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -105,7 +143,7 @@ AnimationClip:
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.33333334
-        value: 1654.2114
+        value: 0
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -113,8 +151,8 @@ AnimationClip:
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 1
-        value: 1654.2114
+        time: 0.6
+        value: -710
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -124,8 +162,8 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    attribute: m_SizeDelta.x
-    path: Canvas/DecorR-004-1
+    attribute: m_AnchoredPosition.x
+    path: Canvas/DecorL-004
     classID: 224
     script: {fileID: 0}
   - curve:
@@ -133,7 +171,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 2835
+        value: 0
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -142,7 +180,7 @@ AnimationClip:
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.33333334
-        value: 4535
+        value: 0
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -150,8 +188,8 @@ AnimationClip:
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 1
-        value: 2835
+        time: 0.6
+        value: 710
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -161,8 +199,8 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    attribute: m_SizeDelta.y
-    path: Canvas/DecorR-004-1
+    attribute: m_AnchoredPosition.x
+    path: Canvas/DecorR-004
     classID: 224
     script: {fileID: 0}
   m_PPtrCurves: []
@@ -174,28 +212,42 @@ AnimationClip:
   m_ClipBindingConstant:
     genericBindings:
     - serializedVersion: 2
-      path: 2628378768
+      path: 3397458927
       attribute: 38095219
       script: {fileID: 0}
       typeID: 224
       customType: 28
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 843142841
+      path: 1407705943
       attribute: 38095219
       script: {fileID: 0}
       typeID: 224
       customType: 28
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 2628378768
+      path: 2302209186
+      attribute: 1460864421
+      script: {fileID: 0}
+      typeID: 224
+      customType: 28
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1458095425
+      attribute: 1460864421
+      script: {fileID: 0}
+      typeID: 224
+      customType: 28
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3397458927
       attribute: 1967290853
       script: {fileID: 0}
       typeID: 224
       customType: 28
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 843142841
+      path: 1407705943
       attribute: 1967290853
       script: {fileID: 0}
       typeID: 224
@@ -207,7 +259,7 @@ AnimationClip:
     m_AdditiveReferencePoseClip: {fileID: 0}
     m_AdditiveReferencePoseTime: 0
     m_StartTime: 0
-    m_StopTime: 1
+    m_StopTime: 0.6
     m_OrientationOffsetY: 0
     m_Level: 0
     m_CycleOffset: 0
@@ -244,8 +296,55 @@ AnimationClip:
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_SizeDelta.x
+    path: Canvas/DecorL-004/DecorL-004-2
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
       - serializedVersion: 3
-        time: 1
+        time: 0
+        value: 2835
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.33333334
+        value: 4500
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_SizeDelta.y
+    path: Canvas/DecorL-004/DecorL-004-2
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1654.2114
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.33333334
         value: 1654.2114
         inSlope: 0
         outSlope: 0
@@ -257,7 +356,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_SizeDelta.x
-    path: Canvas/DecorL-004-2
+    path: Canvas/DecorR-004/DecorR-004-1
     classID: 224
     script: {fileID: 0}
   - curve:
@@ -274,16 +373,7 @@ AnimationClip:
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.33333334
-        value: 4535
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 1
-        value: 2835
+        value: 4500
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -294,7 +384,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_SizeDelta.y
-    path: Canvas/DecorL-004-2
+    path: Canvas/DecorR-004/DecorR-004-1
     classID: 224
     script: {fileID: 0}
   - curve:
@@ -302,7 +392,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 1654.2114
+        value: 0
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -311,7 +401,7 @@ AnimationClip:
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.33333334
-        value: 1654.2114
+        value: 0
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -319,8 +409,8 @@ AnimationClip:
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 1
-        value: 1654.2114
+        time: 0.6
+        value: -710
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -330,8 +420,8 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    attribute: m_SizeDelta.x
-    path: Canvas/DecorR-004-1
+    attribute: m_AnchoredPosition.x
+    path: Canvas/DecorL-004
     classID: 224
     script: {fileID: 0}
   - curve:
@@ -339,7 +429,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 2835
+        value: 0
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -348,7 +438,7 @@ AnimationClip:
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.33333334
-        value: 4535
+        value: 0
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -356,8 +446,8 @@ AnimationClip:
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 1
-        value: 2835
+        time: 0.6
+        value: 710
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -367,8 +457,8 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    attribute: m_SizeDelta.y
-    path: Canvas/DecorR-004-1
+    attribute: m_AnchoredPosition.x
+    path: Canvas/DecorR-004
     classID: 224
     script: {fileID: 0}
   m_EulerEditorCurves: []
