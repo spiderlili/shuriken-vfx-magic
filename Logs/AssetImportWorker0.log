@@ -255,3 +255,6 @@ Received Import Request.
   path: Assets/UI/Card/TarotCardFrame_002.png
   artifactKey: Guid(91e87265cbc1642469cb77d32b9aabc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/UI/Card/TarotCardFrame_002.png using Guid(91e87265cbc1642469cb77d32b9aabc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4baf13923f4262d97792beb013ddf5ad') in 0.176227 seconds 
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
