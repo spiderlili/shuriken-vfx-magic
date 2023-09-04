@@ -22,7 +22,7 @@ AssetImportWorker0
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-59701
+53918
 Successfully changed project path to: /Users/jingtan/Documents/GitHub/shuriken-vfx-magic
 /Users/jingtan/Documents/GitHub/shuriken-vfx-magic
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
@@ -54,11 +54,11 @@ Successfully changed project path to: /Users/jingtan/Documents/GitHub/shuriken-v
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Player connection [4681874944] Host "[IP] 192.168.1.218 [Port] 0 [Flags] 2 [Guid] 4251679096 [EditorId] 4251679096 [Version] 1048832 [Id] OSXEditor(0,Jings-MacBook-Pro) [Debug] 1 [PackageName] OSXEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+Player connection [4603395584] Host "[IP] 192.168.1.40 [Port] 0 [Flags] 2 [Guid] 96211158 [EditorId] 96211158 [Version] 1048832 [Id] OSXEditor(0,Jings-MacBook-Pro) [Debug] 1 [PackageName] OSXEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
 
-Player connection [4681874944] Host "[IP] 192.168.1.218 [Port] 0 [Flags] 2 [Guid] 4251679096 [EditorId] 4251679096 [Version] 1048832 [Id] OSXEditor(0,Jings-MacBook-Pro) [Debug] 1 [PackageName] OSXEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+Player connection [4603395584] Host "[IP] 192.168.1.40 [Port] 0 [Flags] 2 [Guid] 96211158 [EditorId] 96211158 [Version] 1048832 [Id] OSXEditor(0,Jings-MacBook-Pro) [Debug] 1 [PackageName] OSXEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
 
-Refreshing native plugins compatible for Editor in 84.28 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 224.96 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.3.20f1 (577897200b8b)
 [Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2021.3.20f1/Unity.app/Contents/Resources/UnitySubsystems
@@ -74,45 +74,45 @@ Initialize mono
 Mono path[0] = '/Applications/Unity/Hub/Editor/2021.3.20f1/Unity.app/Contents/Managed'
 Mono path[1] = '/Applications/Unity/Hub/Editor/2021.3.20f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit-macos'
 Mono config path = '/Applications/Unity/Hub/Editor/2021.3.20f1/Unity.app/Contents/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56408
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56438
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: /Applications/Unity/Hub/Editor/2021.3.20f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
 Register platform support module: /Applications/Unity/Hub/Editor/2021.3.20f1/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
 Register platform support module: /Applications/Unity/Hub/Editor/2021.3.20f1/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll
-Registered in 0.009661 seconds.
+Registered in 0.008767 seconds.
 [usbmuxd] Start listen thread
 [usbmuxd] Listen thread started
 [usbmuxd] Send listen message
 Native extension for iOS target not found
 Native extension for Android target not found
-Android Extension - Scanning For ADB Devices 105 ms
+Android Extension - Scanning For ADB Devices 127 ms
 Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 50.12 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 50.25 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.105 seconds
+- Completed reload, in  1.249 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1106ms)
-		BeginReloadAssembly (185ms)
+	ReloadAssembly (1249ms)
+		BeginReloadAssembly (248ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
-		EndReloadAssembly (775ms)
-			LoadAssemblies (190ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (174ms)
+		EndReloadAssembly (845ms)
+			LoadAssemblies (249ms)
+			RebuildTransferFunctionScriptingTraits (2ms)
+			SetupTypeCache (177ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (39ms)
-			SetupLoadedEditorAssemblies (493ms)
+			RebuildScriptCaches (37ms)
+			SetupLoadedEditorAssemblies (556ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (271ms)
+				InitializePlatformSupportModulesInManaged (329ms)
 				SetLoadedEditorAssemblies (0ms)
 				RefreshPlugins (50ms)
 				BeforeProcessingInitializeOnLoad (2ms)
-				ProcessInitializeOnLoadAttributes (109ms)
+				ProcessInitializeOnLoadAttributes (114ms)
 				ProcessInitializeOnLoadMethodAttributes (60ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
@@ -120,52 +120,52 @@ Domain Reload Profiling:
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.004976 seconds.
+Registered in 0.004138 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for iOS target not found
 Native extension for Android target not found
 Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 0.83 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 0.67 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.639 seconds
+- Completed reload, in  1.900 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1640ms)
-		BeginReloadAssembly (185ms)
+	ReloadAssembly (1901ms)
+		BeginReloadAssembly (191ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (8ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (41ms)
-		EndReloadAssembly (1289ms)
-			LoadAssemblies (226ms)
+			CreateAndSetChildDomain (48ms)
+		EndReloadAssembly (1549ms)
+			LoadAssemblies (512ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (362ms)
+			SetupTypeCache (332ms)
 			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (76ms)
+			RebuildScriptCaches (74ms)
 			SetupLoadedEditorAssemblies (583ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (40ms)
+				InitializePlatformSupportModulesInManaged (36ms)
 				SetLoadedEditorAssemblies (1ms)
 				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (82ms)
-				ProcessInitializeOnLoadAttributes (265ms)
-				ProcessInitializeOnLoadMethodAttributes (192ms)
+				BeforeProcessingInitializeOnLoad (70ms)
+				ProcessInitializeOnLoadAttributes (292ms)
+				ProcessInitializeOnLoadMethodAttributes (179ms)
 				AfterProcessingInitializeOnLoad (3ms)
-				EditorAssembliesLoaded (0ms)
+				EditorAssembliesLoaded (1ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (5ms)
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Launching external process: /Applications/Unity/Hub/Editor/2021.3.20f1/Unity.app/Contents/Tools/UnityShaderCompiler
-Launched and connected shader compiler UnityShaderCompiler after 0.03 seconds
-Refreshing native plugins compatible for Editor in 0.71 ms, found 3 plugins.
+Launched and connected shader compiler UnityShaderCompiler after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.74 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 2648 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 74 unused Assets / (1.3 MB). Loaded Objects now: 3096.
-Memory consumption went from 119.3 MB to 118.0 MB.
-Total: 8.201453 ms (FindLiveObjects: 0.227791 ms CreateObjectMapping: 0.147517 ms MarkObjects: 7.447741 ms  DeleteObjects: 0.377356 ms)
+Unloading 74 unused Assets / (1.3 MB). Loaded Objects now: 3097.
+Memory consumption went from 119.4 MB to 118.1 MB.
+Total: 10.860731 ms (FindLiveObjects: 0.639184 ms CreateObjectMapping: 0.162350 ms MarkObjects: 8.466059 ms  DeleteObjects: 1.591867 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -177,84 +177,3 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Import Request.
-  Time since last request: 135209.213380 seconds.
-  path: Assets/UI/Card
-  artifactKey: Guid(9deef0355d34e48449ad19c4e35a44cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/UI/Card using Guid(9deef0355d34e48449ad19c4e35a44cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '821ae03d4f52b2a964b6cb88bb49a277') in 0.008766 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 2352.639954 seconds.
-  path: Assets/UI/Card/TarotCardFrame_001.png
-  artifactKey: Guid(d2b6fc6a737894598a9c1b5cd3439df4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/UI/Card/TarotCardFrame_001.png using Guid(d2b6fc6a737894598a9c1b5cd3439df4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b808997dff1615e24e001f4578833469') in 2.545774 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.003726 seconds.
-  path: Assets/UI/Card/TarotCardFrame_005_1.png
-  artifactKey: Guid(fe59faf273e7f4f43a0e4e89e14b7337) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/UI/Card/TarotCardFrame_005_1.png using Guid(fe59faf273e7f4f43a0e4e89e14b7337) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28b91b7d8b3b337c258a1b15ad669e4a') in 0.022461 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000096 seconds.
-  path: Assets/UI/Card/TarotCardFrame_004_r.png
-  artifactKey: Guid(3d670315ac43241c4ad903859934c391) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/UI/Card/TarotCardFrame_004_r.png using Guid(3d670315ac43241c4ad903859934c391) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a26172340900dcebad8b451cf37790b3') in 0.028578 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000074 seconds.
-  path: Assets/UI/Card/TarotCardFrame_004.png
-  artifactKey: Guid(aaccf36e537c140689af50d311b55293) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/UI/Card/TarotCardFrame_004.png using Guid(aaccf36e537c140689af50d311b55293) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e17962b087c527631866b5923245471') in 0.014628 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000063 seconds.
-  path: Assets/UI/Card/TarotCardFrame_004_2.png
-  artifactKey: Guid(626f86380639a49e2bbdff4aa0aaeccb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/UI/Card/TarotCardFrame_004_2.png using Guid(626f86380639a49e2bbdff4aa0aaeccb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '521816e42f46122c3f20841f321aa1e4') in 0.024967 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000054 seconds.
-  path: Assets/UI/Card/TarotCardFrame_004_1.png
-  artifactKey: Guid(0efc01e6124bf4637a34cdc0ddbdd535) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/UI/Card/TarotCardFrame_004_1.png using Guid(0efc01e6124bf4637a34cdc0ddbdd535) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7c98dfa7d265d354527bebe9ad1db3d') in 0.011621 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000054 seconds.
-  path: Assets/UI/Card/TarotCardTemplate_InnerBorderPath.png
-  artifactKey: Guid(fa43da3641c46469eb05e92387880f1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/UI/Card/TarotCardTemplate_InnerBorderPath.png using Guid(fa43da3641c46469eb05e92387880f1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb293adeac40c97c982f73c5c38e6fe7') in 0.012004 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 8.947335 seconds.
-  path: Assets/UI/Card/TarotCardFrame_003.png
-  artifactKey: Guid(29455a94205124cfcbe681808ad83997) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/UI/Card/TarotCardFrame_003.png using Guid(29455a94205124cfcbe681808ad83997) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2a5960ea357bee1368a81178e677bf0') in 0.317961 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000074 seconds.
-  path: Assets/UI/Card/TarotCardFrame_005_1.png
-  artifactKey: Guid(fe59faf273e7f4f43a0e4e89e14b7337) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/UI/Card/TarotCardFrame_005_1.png using Guid(fe59faf273e7f4f43a0e4e89e14b7337) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f72ebf9b0fbfcc0d202e77f51d7a612') in 0.198462 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000123 seconds.
-  path: Assets/UI/Card/TarotCardFrame_004_r.png
-  artifactKey: Guid(3d670315ac43241c4ad903859934c391) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/UI/Card/TarotCardFrame_004_r.png using Guid(3d670315ac43241c4ad903859934c391) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9228661fcf3bdf087e01424ed7e82e1a') in 0.198062 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000063 seconds.
-  path: Assets/UI/Card/TarotCardFrame_004_1.png
-  artifactKey: Guid(0efc01e6124bf4637a34cdc0ddbdd535) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/UI/Card/TarotCardFrame_004_1.png using Guid(0efc01e6124bf4637a34cdc0ddbdd535) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53802df37225b167761dc89ae04c04c3') in 0.196529 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 2.307338 seconds.
-  path: Assets/UI/Card/TarotCardFrame_002.png
-  artifactKey: Guid(91e87265cbc1642469cb77d32b9aabc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/UI/Card/TarotCardFrame_002.png using Guid(91e87265cbc1642469cb77d32b9aabc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4baf13923f4262d97792beb013ddf5ad') in 0.176227 seconds 
-Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
-AssetImportWorker is now disconnected from the server
-Process exiting
