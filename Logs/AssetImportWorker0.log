@@ -195,3 +195,92 @@ Received Import Request.
   path: Assets/Shaders/StencilMask.shader
   artifactKey: Guid(7799ded8c84194522a71de5f4b216e7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Shaders/StencilMask.shader using Guid(7799ded8c84194522a71de5f4b216e7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1487557bc7bf782cde297d5985ace9c8') in 0.010066 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 98.847966 seconds.
+  path: Assets/Shaders/ToonLitStencilMasked.shader
+  artifactKey: Guid(9b093b4625562411c8b8b84f41c94642) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaders/ToonLitStencilMasked.shader using Guid(9b093b4625562411c8b8b84f41c94642) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01079b461c49f0db0751c4fd6de31b90') in 0.012667 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 258.031919 seconds.
+  path: Assets/Shaders/ToonLitStencilMasked.shader
+  artifactKey: Guid(9b093b4625562411c8b8b84f41c94642) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaders/ToonLitStencilMasked.shader using Guid(9b093b4625562411c8b8b84f41c94642) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Shader Custom/ToonLitStencilMasked uses undefined Queue: 'Geometry + 2'
+Shader Custom/ToonLitStencilMasked uses undefined Queue: 'Geometry + 2'
+ -> (artifact id: '57ecea82c8515cc28a1d076c9fb66e24') in 0.007214 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 161.393806 seconds.
+  path: Assets/Shaders/StencilMask.shader
+  artifactKey: Guid(7799ded8c84194522a71de5f4b216e7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaders/StencilMask.shader using Guid(7799ded8c84194522a71de5f4b216e7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf0502d7b0bc69a40fde723e6c68d0b3') in 0.003560 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1409.005091 seconds.
+  path: Assets/Materials/toonrampstencil.mat
+  artifactKey: Guid(58d86585a5ee04130aadfd1ab5093a17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/toonrampstencil.mat using Guid(58d86585a5ee04130aadfd1ab5093a17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f469255a2a84dfccc57cf0af4323adf7') in 1.768324 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 20.269782 seconds.
+  path: Assets/Shaders/ToonLitStencilMasked.shader
+  artifactKey: Guid(9b093b4625562411c8b8b84f41c94642) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaders/ToonLitStencilMasked.shader using Guid(9b093b4625562411c8b8b84f41c94642) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87ba7d5f9fa9d2072b73d5e05e16a929') in 0.012316 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 11.288852 seconds.
+  path: Assets/Shaders/ToonLitStencilMasked.shader
+  artifactKey: Guid(9b093b4625562411c8b8b84f41c94642) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaders/ToonLitStencilMasked.shader using Guid(9b093b4625562411c8b8b84f41c94642) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a9d7b0bf400ce6fd9eb3e6d2ea491b8') in 0.006414 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8.854168 seconds.
+  path: Assets/Prefabs/Ball Lightning.prefab
+  artifactKey: Guid(10f4b9da684f07d47a83cc42599ac109) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Ball Lightning.prefab using Guid(10f4b9da684f07d47a83cc42599ac109) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97e5ccdea0ec9937875c67eee0960629') in 0.642372 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000832 seconds.
+  path: Assets/Prefabs/LightRaysPillar.prefab
+  artifactKey: Guid(62d7190b74b1bec499d73d08ebb77ffa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/LightRaysPillar.prefab using Guid(62d7190b74b1bec499d73d08ebb77ffa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3c5108e186ec01f22266c3da608997b') in 0.288126 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.002571 seconds.
+  path: Assets/Prefabs/Tiny Bubbles Fish.prefab
+  artifactKey: Guid(a049388235ef5fe4897c47cf6c6b5077) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Tiny Bubbles Fish.prefab using Guid(a049388235ef5fe4897c47cf6c6b5077) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '634e70eaee0bbc22f727de47807a99fe') in 0.092144 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000055 seconds.
+  path: Assets/Prefabs/ColourfulRandomStars.prefab
+  artifactKey: Guid(10b631bc203ca6e4990d8b016583f185) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ColourfulRandomStars.prefab using Guid(10b631bc203ca6e4990d8b016583f185) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48faeb96a55f2a55de521a79ba5c8eb5') in 0.051111 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000073 seconds.
+  path: Assets/Prefabs/ToonSmoke.prefab
+  artifactKey: Guid(49bb56e35dfe11c4c8fc4183f87fea04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ToonSmoke.prefab using Guid(49bb56e35dfe11c4c8fc4183f87fea04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a881caabe1b88e33c60139b1a3b19117') in 0.139964 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000086 seconds.
+  path: Assets/Prefabs/Ship_TrailFlare Variant.prefab
+  artifactKey: Guid(427364da71273724d8a6da6c84deb945) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Ship_TrailFlare Variant.prefab using Guid(427364da71273724d8a6da6c84deb945) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd152636afaa6252b2ca3ceb176b0a01') in 1.167691 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000100 seconds.
+  path: Assets/Prefabs/TornadoSuperCharge.prefab
+  artifactKey: Guid(928533c19759700468d1f5c77e0f7dbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/TornadoSuperCharge.prefab using Guid(928533c19759700468d1f5c77e0f7dbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7fda64c223c93f4249b1fb621148d90') in 0.232355 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.365271 seconds.
+  path: Assets/Effects/Lens Flares/35mm Lens.flare
+  artifactKey: Guid(0e5f153f2f9d947ba914bbf16a151626) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effects/Lens Flares/35mm Lens.flare using Guid(0e5f153f2f9d947ba914bbf16a151626) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5fb99fe72d7a8bd0c4d4e3707e454d6') in 0.297415 seconds 
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
