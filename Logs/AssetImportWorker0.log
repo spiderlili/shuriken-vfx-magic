@@ -1334,3 +1334,107 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 7384.519907 seconds.
+  path: Assets/UI/TarotCard/TarotCardVFX/GlowFlare 1.jpeg
+  artifactKey: Guid(e2f1b214448ad4be2977b04caa7453ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/TarotCard/TarotCardVFX/GlowFlare 1.jpeg using Guid(e2f1b214448ad4be2977b04caa7453ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cae5fd19db7eb7c53446ea82ca771de2') in 0.669647 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.740468 seconds.
+  path: Assets/UI/TarotCard/TarotCardVFX/GlowFlareBlue.jpeg
+  artifactKey: Guid(e2f1b214448ad4be2977b04caa7453ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/TarotCard/TarotCardVFX/GlowFlareBlue.jpeg using Guid(e2f1b214448ad4be2977b04caa7453ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2f867b7aab41197a6a0241f190ef199') in 0.031555 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.740389 seconds.
+  path: Assets/UI/TarotCard/TarotCardVFX/TarotCardGlowVFX 1.mat
+  artifactKey: Guid(edd582f9849d9488ebaadcc69c41bf20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/TarotCard/TarotCardVFX/TarotCardGlowVFX 1.mat using Guid(edd582f9849d9488ebaadcc69c41bf20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3129f3d31a8456b1a900f685d314f60c') in 0.104625 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.338702 seconds.
+  path: Assets/UI/TarotCard/TarotCardVFX/TarotCardGlowVFXBlue.mat
+  artifactKey: Guid(edd582f9849d9488ebaadcc69c41bf20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/TarotCard/TarotCardVFX/TarotCardGlowVFXBlue.mat using Guid(edd582f9849d9488ebaadcc69c41bf20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0ad02ec72129187d1ad27edbd2e6ebb') in 0.016679 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 213.509619 seconds.
+  path: Assets/UI/TarotCard/lensFlare2.png
+  artifactKey: Guid(b98dcb4e9eb744527917752f7cb62328) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/TarotCard/lensFlare2.png using Guid(b98dcb4e9eb744527917752f7cb62328) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7326d872985e5d466f7fe1870da57f25') in 0.063791 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 225.068904 seconds.
+  path: Assets/UI/TarotCard/TarotCardVFX/TarotCardGlowVFXBlue.mat
+  artifactKey: Guid(edd582f9849d9488ebaadcc69c41bf20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/TarotCard/TarotCardVFX/TarotCardGlowVFXBlue.mat using Guid(edd582f9849d9488ebaadcc69c41bf20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a5f174050c2a77819bff7cd9bf7ad3b') in 0.061855 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 749.973586 seconds.
+  path: Assets/UI/TarotCard/TarotCardVFX/Models/circleDisc.fbx
+  artifactKey: Guid(04317ce4f13df4d6fb10758bb66e131c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/TarotCard/TarotCardVFX/Models/circleDisc.fbx using Guid(04317ce4f13df4d6fb10758bb66e131c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7875e08548bfa35a20b4f665890a7748') in 0.785108 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 129.669925 seconds.
+  path: Assets/UI/TarotCard/TarotCardVFX/Models/circleDisc.fbx
+  artifactKey: Guid(04317ce4f13df4d6fb10758bb66e131c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/TarotCard/TarotCardVFX/Models/circleDisc.fbx using Guid(04317ce4f13df4d6fb10758bb66e131c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99546b339f8bb6784a154b1935f521ce') in 0.020271 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.009167 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.93 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.720 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2723ms)
+		BeginReloadAssembly (590ms)
+			ExecutionOrderSort (1ms)
+			DisableScriptedObjects (27ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (221ms)
+		EndReloadAssembly (1921ms)
+			LoadAssemblies (364ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (547ms)
+			ReleaseScriptCaches (3ms)
+			RebuildScriptCaches (87ms)
+			SetupLoadedEditorAssemblies (929ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (67ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (85ms)
+				ProcessInitializeOnLoadAttributes (437ms)
+				ProcessInitializeOnLoadMethodAttributes (333ms)
+				AfterProcessingInitializeOnLoad (4ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (11ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 8.60 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2593 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 67 unused Assets / (1.2 MB). Loaded Objects now: 3221.
+Memory consumption went from 207.2 MB to 205.9 MB.
+Total: 12.458169 ms (FindLiveObjects: 0.285155 ms CreateObjectMapping: 0.193867 ms MarkObjects: 11.649387 ms  DeleteObjects: 0.328649 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
